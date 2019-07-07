@@ -26,7 +26,8 @@ SECRET_KEY = 'z!pf%ubd4)n50s!9*i-026ehm@#51ff7l(+74vr%^yvm^%)=3x'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'shrouded-caverns-75989.herokuapp.com'
+    #'shrouded-caverns-75989.herokuapp.com'
+    'floating-meadow-33044.herokuapp.com'
 ]
 
 
